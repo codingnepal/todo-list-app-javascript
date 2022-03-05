@@ -18,7 +18,7 @@ Here are some related projects
 
 [Drag & Drop File Upload Feature](https://www.youtube.com/watch?v=0HCiH4Tk04I)
 
-[Memory Card Game in JavaScript](https://www.youtube.com/watch?v=DABkhfsBAWw&t=4s)
+[Memory Card Game in JavaScript](https://www.youtube.com/watch?v=DABkhfsBAWw)
 
 [Build A Weather App in Javascript](https://www.youtube.com/watch?v=c1r-NqYkFPc)
 
